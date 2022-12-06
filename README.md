@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Sales-Data-Analysis in Power BI|Sales Analysis Dashboard             |https://github.com/Aseye-Amedofu/Sales-Data-Analysis-in-PowerBI|
+| 2 | Parking-Violations             |An exploratory data analysis         |https://github.com/Aseye-Amedofu/Parking-Violations      |
+| 3 | Stochastic-Gradient-Model      |This project involves the comparison of a Stochastic Gradient Descent model with a Random Forest model.                                          |https://github.com/Aseye-Amedofu/Stochastic-Gradient-Model     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
